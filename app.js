@@ -38,3 +38,4 @@ for(var i = 0; i < questions.length; i++){
 }
 
 alert("you got score " + score + " Out of " + questions.length);
+console.log("check");
